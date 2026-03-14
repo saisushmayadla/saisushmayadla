@@ -56,13 +56,6 @@ A smart wheelchair designed to improve assistive mobility.
 
 ![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisushmayadla&show_icons=true&theme=tokyonight)
 
----
-
-## 🌱 Future Goals
-
-- Become a skilled Software Developer
-- Contribute to impactful open-source projects
-- Build innovative technology solutions that help people
 
 ---
 

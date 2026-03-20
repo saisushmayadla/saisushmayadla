@@ -52,12 +52,6 @@ A smart wheelchair designed to improve assistive mobility.
 
 ---
 
-## 📊 GitHub Stats
-
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisushmayadla&show_icons=true&theme=tokyonight)
-
-
----
 
 ## 📫 Connect With Me
 

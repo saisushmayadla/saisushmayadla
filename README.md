@@ -50,6 +50,12 @@ A smart wheelchair designed to improve assistive mobility.
 - Built with Arduino UNO and HC-05 module
 - Integrated motor driver and DC motors for navigation
 
+
+### GitHub Repository & Developer Activity Analytics Dashboard
+- Developed an interactive dashboard to analyze GitHub repository activity including commits, contributors, and
+language usage across multiple repositories.
+- Modeled repository data and created KPIs using Power BI and DAX to
+derive insights on developer contributions and project activity
 ---
 
 

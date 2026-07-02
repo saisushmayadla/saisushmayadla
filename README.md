@@ -57,6 +57,7 @@ A smart wheelchair designed to improve assistive mobility.
 
 - GitHub: https://github.com/saisushmayadla
 - LinkedIn: (https://www.linkedin.com/in/yadla-sai-sushma-b58b3a362)
+- Email: saisushmayadla@gmail.com
 
 ---
 
